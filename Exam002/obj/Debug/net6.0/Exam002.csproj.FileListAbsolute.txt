@@ -1,0 +1,15 @@
+C:\Users\Ульяна\Desktop\Тестовая 2\Exam002\bin\Debug\net6.0\Exam002.exe
+C:\Users\Ульяна\Desktop\Тестовая 2\Exam002\bin\Debug\net6.0\Exam002.deps.json
+C:\Users\Ульяна\Desktop\Тестовая 2\Exam002\bin\Debug\net6.0\Exam002.runtimeconfig.json
+C:\Users\Ульяна\Desktop\Тестовая 2\Exam002\bin\Debug\net6.0\Exam002.dll
+C:\Users\Ульяна\Desktop\Тестовая 2\Exam002\bin\Debug\net6.0\ref\Exam002.dll
+C:\Users\Ульяна\Desktop\Тестовая 2\Exam002\bin\Debug\net6.0\Exam002.pdb
+C:\Users\Ульяна\Desktop\Тестовая 2\Exam002\obj\Debug\net6.0\Exam002.csproj.AssemblyReference.cache
+C:\Users\Ульяна\Desktop\Тестовая 2\Exam002\obj\Debug\net6.0\Exam002.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ульяна\Desktop\Тестовая 2\Exam002\obj\Debug\net6.0\Exam002.AssemblyInfoInputs.cache
+C:\Users\Ульяна\Desktop\Тестовая 2\Exam002\obj\Debug\net6.0\Exam002.AssemblyInfo.cs
+C:\Users\Ульяна\Desktop\Тестовая 2\Exam002\obj\Debug\net6.0\Exam002.csproj.CoreCompileInputs.cache
+C:\Users\Ульяна\Desktop\Тестовая 2\Exam002\obj\Debug\net6.0\Exam002.dll
+C:\Users\Ульяна\Desktop\Тестовая 2\Exam002\obj\Debug\net6.0\ref\Exam002.dll
+C:\Users\Ульяна\Desktop\Тестовая 2\Exam002\obj\Debug\net6.0\Exam002.pdb
+C:\Users\Ульяна\Desktop\Тестовая 2\Exam002\obj\Debug\net6.0\Exam002.genruntimeconfig.cache
